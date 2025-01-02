@@ -13,4 +13,4 @@ This repository contains a collection of Python programs and projects, showcasin
 1. Clone the repository:  
    ```bash
    git clone
- https://github.com/Pratik-Kiran-Rout/python.git
+https://github.com/Pratik-Kiran-Rout/python.git
