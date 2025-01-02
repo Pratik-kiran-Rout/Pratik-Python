@@ -1,0 +1,2 @@
+here we use .txt extension for text file 
+" Hello , pratik from this side ! :"

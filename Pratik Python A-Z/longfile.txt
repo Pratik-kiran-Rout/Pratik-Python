@@ -1,0 +1,13 @@
+Although most of the time the styles of a web-page's author would suffice, the Opera browser has long provide
+d facilities for its users to modify the appearance of the page, and all recent Opera versions up to and including
+12.17 allow user style-sheets. Versions beyond this point, version 15.xx was essentially next, have not permitted such 
+facilities. The 12.17 version is perhaps preferred over 12.16 for those who like the old style, since it was created to fix the Heartbleed bug.
+To continue, the local user can provide several style-sheets, one for general use that affects every page, and others that 
+are used instead when specific pages are opened. The browser also has a number of built-in style sheets to improve viewing for the visually impaired and for testing.
+Changed styles are perhaps best regarded for making a page easier to read, but the study of the CSS cascade itself requires
+ an ability in styles adjustment. Another more obvious use is the design of a web-page, where endless testing is the rule as opposed to the exception.
+Contrary to popular belief, those interested in studying styles need not purchase expensive program packages. Whereas suc
+h programs have advantages for those seeking quick results the web itself is the best source of examples, and can be studied at 
+any time. With the introduction of web-developer software to browsers all of the necessary features are already available.
+This page explains how to configure the style settings of the Opera 12.16 browser for its main areas of use, and provides so
+me sample text files and tutorials to assist in their study.
