@@ -10,6 +10,5 @@ This repository contains a collection of Python programs and projects, showcasin
 - Practical examples and projects
 
 ## How to Use
-1. Clone the repository:  
-   ```bash
+1. Clone the repository:
   git clone https://github.com/Pratik-Kiran-Rout/python.git
