@@ -1,6 +1,6 @@
 # Python Repository
 
-Welcome to the *Python Repository* curated by *Pratik Kiran Rout*!  
+Welcome to the *Python Repository* created by *Pratik Kiran Rout*!  
 
 This repository contains a collection of Python programs and projects, showcasing solutions to various real-world problems. From beginner-friendly scripts to advanced projects, it reflects the versatility of Python and its human-like problem-solving approach.
 
